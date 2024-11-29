@@ -1,0 +1,5 @@
+name,age,ishuman
+string,int,bool
+ivan,30,true
+vasya,10,true
+bot,2000,false
